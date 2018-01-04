@@ -1,6 +1,6 @@
 {
   "name": "trebuchet",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "description": "A node.js module for throwing email around using the Postmark API.",
   "main": "./lib/index.js",
   "scripts": {
